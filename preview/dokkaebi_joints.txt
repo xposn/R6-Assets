@@ -1,0 +1,24 @@
+# joint x y  normalised 0..1 inside the cropped image; ASPECT is width/height of that image
+ASPECT 0.30185 0.0
+Hips 0.53853 0.46496
+Spine 0.57553 0.35230
+Spine1 0.58128 0.30275
+Spine2 0.56543 0.20201
+Neck 0.54641 0.16146
+Head 0.52819 0.12283
+LeftShoulder 0.65424 0.17589
+LeftArm 0.82495 0.18716
+LeftForeArm 0.80925 0.29953
+LeftHand 0.52640 0.25069
+RightShoulder 0.50473 0.16946
+RightArm 0.30467 0.17066
+RightForeArm 0.13813 0.29250
+RightHand 0.30941 0.26463
+LeftUpLeg 0.70844 0.46474
+LeftLeg 0.77488 0.65482
+LeftFoot 0.85847 0.89740
+LeftToeBase 0.86717 0.96108
+RightUpLeg 0.36863 0.46518
+RightLeg 0.20473 0.66168
+RightFoot 0.13682 0.90017
+RightToeBase 0.09017 0.96315
