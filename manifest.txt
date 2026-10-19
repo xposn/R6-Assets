@@ -27,6 +27,7 @@ Icons/finka.png 100593 32289224
 Icons/flores.png 100611 6724B864
 Icons/frost.png 42021 30FB8CAC
 Icons/fuze.png 109003 6BE27CCB
+Icons/gadget_icons.bin 158123 B8CE4A0A
 Icons/glaz.png 66937 79903DB4
 Icons/goyo.png 75284 01CBC02B
 Icons/gridlock.png 74844 85968CD6
